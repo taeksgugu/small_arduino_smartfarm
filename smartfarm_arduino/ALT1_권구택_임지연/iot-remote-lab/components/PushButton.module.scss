@@ -1,0 +1,11 @@
+@import "./_common.scss";
+
+.button {
+  font-size: 1em;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
